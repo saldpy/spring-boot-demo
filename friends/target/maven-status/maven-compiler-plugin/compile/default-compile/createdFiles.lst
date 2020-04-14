@@ -1,0 +1,4 @@
+com\wiredbrain\friends\controller\FriendController.class
+com\wiredbrain\friends\service\FriendService.class
+com\wiredbrain\friends\FriendsApplication.class
+com\wiredbrain\friends\model\Friend.class
